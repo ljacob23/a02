@@ -1,3 +1,5 @@
-# a02 Time to manage the packages
+# a02 Like building a house
 
-In this assignment, you will practice using NPM ackage management and also download, install and use a CSS framework (either Bootstrap or Bulma).
+In this assignment, you will install and use Bulma, a CSS framework, to style a web interface.
+
+You will also practice some package management with NPM. 
