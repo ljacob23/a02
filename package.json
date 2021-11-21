@@ -1,0 +1,22 @@
+{
+  "name": "a02",
+  "version": "1.0.0",
+  "description": "426 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02.git"
+  },
+  "author": "ljacob23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
